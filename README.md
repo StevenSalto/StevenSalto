@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StevenSalto
-- 👀 I’m interested in meeting new people.
+- 👀 I’m interested in app development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate :D
 <!--- 📫 How to reach me ... --->
