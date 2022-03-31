@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevenSalto
 - 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning React Native and Python.
+- 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate :D
 <!--- 📫 How to reach me ... --->
 
