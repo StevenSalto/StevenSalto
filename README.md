@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StevenSalto
-- 👀 I’m interested in mobile development.
+- 👀 I’m interested in Web Dev.
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate :D
 <!--- 📫 How to reach me ... --->
